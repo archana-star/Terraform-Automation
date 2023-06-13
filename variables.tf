@@ -24,7 +24,7 @@ variable "tag_name" {
 } 
 variable "ami_id" { 
     description = "AMI for Ubuntu Ec2 instance" 
-    default     = "ami-04a0ae173da5807d3" 
+    default     = "ami-049a62eb90480f276" 
 }
 variable "versioning" {
     type        = bool
